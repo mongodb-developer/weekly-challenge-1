@@ -4,7 +4,7 @@
 
 This is the data set for [Week 1](https://mdbwchallengeweek1.splashthat.com/) of Eliot's Weekly MongoDB World Challenge.
 
-**To download the data set directly, <a href="https://raw.githubusercontent.com/mongodb-developer/weekly-challenge-1/master/meteorites.json" download>click this download link</a>.**
+**To download the data set directly, <a href="https://raw.githubusercontent.com/mongodb-developer/weekly-challenge-1/master/meteorites.json" download>click this download link</a> (you may need to right click and select "Save link as").**
 
 If you're on a Unix system you can download the file using wget:
 
